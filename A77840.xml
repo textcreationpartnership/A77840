@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New papers from the armie, concerning the Kings Majesties letter sent to His Highnesse the Duke of York, written by His Majesties own hand. Also, the resolution and proceedings of their commissioners at the treaty at Wickham; concerning the peace and safety of the kingdome of England. With a remarkable passage concerning the kingdome of Scotland.</title>
+            <author>Burfoit, T.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77840</idno>
+            <idno type="STC">Wing B5624</idno>
+            <idno type="STC">Thomason E398_1</idno>
+            <idno type="STC">ESTC R201680</idno>
+            <idno type="EEBO-CITATION">99862180</idno>
+            <idno type="PROQUEST">99862180</idno>
+            <idno type="VID">114331</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77840)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114331)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E398[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New papers from the armie, concerning the Kings Majesties letter sent to His Highnesse the Duke of York, written by His Majesties own hand. Also, the resolution and proceedings of their commissioners at the treaty at Wickham; concerning the peace and safety of the kingdome of England. With a remarkable passage concerning the kingdome of Scotland.</title>
+                  <author>Burfoit, T.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Reynolds,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>June [sic] 13. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed at end: Wickham Iuly 9. 1647. T. Burfoit.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Annotation on Thomason copy: "July 13"; 'June' in imprint altered to "July".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Treaties --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114331:1"/>
+            <pb facs="tcp:114331:1" rendition="simple:additions"/>
+            <p>NEW PAPERS FROM THE ARMIE, <hi>CONCERNING</hi> The Kings Majeſties Letter ſent to His Highneſſe the DUKE of YORK, written by His Majeſties own Hand.</p>
+            <p>
+               <hi>ALSO,</hi> The Reſolution and proceedings of their <hi>Commiſſioners</hi> at the <hi>Treaty at Wickham;</hi> concer<g ref="char:EOLhyphen"/>ning the Peace and ſafety of the Kingdome of <hi>ENGLAND.</hi>
+            </p>
+            <p>
+               <hi>With a Remarkable Paſſage concerning the Kingdome of</hi> Scotland.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Thomas Reynolds,</hi> Ju<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 13. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letters">
+            <div type="letter">
+               <pb facs="tcp:114331:2"/>
+               <pb facs="tcp:114331:2"/>
+               <head>The laſt NEVVES From the TREATY.</head>
+               <p>
+                  <hi>SIR,</hi>
+               </p>
+               <p>YOur laſt I have received, dated <hi>July</hi> 5. wherein I find many earneſt expreſſi<g ref="char:EOLhyphen"/>ons, touching the proceedings of this pre<g ref="char:EOLhyphen"/>ſent Treaty. And whereas you deſire to be a partaker of our intelligence in theſe parts, I ſhall here faithfully impart unto you, that which is of greateſt concernmene, and moſt deſired by the whole Kingdome, <hi>viz.</hi>
+               </p>
+               <pb facs="tcp:114331:3"/>
+               <p>Upon Fryday being the 2. of this <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t July, the Commiſſioners authorized by both Houſes of Parliament, and the Commiſſio<g ref="char:EOLhyphen"/>ners appointed by his Excellency Sir <hi>Thomas Fairfa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> began the treaty at <hi>Wickh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne,</hi> who at their firſt meeting, declared themſelves to each other with moſt gallant expreſſions of love and amity; which cauſed much tryumph and joy throughout the whole army; and after ſome few houres in debate touching their inſtructions, they came to this reſult, VIZ.</p>
+               <p n="1">1. That fome ſcruple was made about the paſſage in the inſtructions, viz to treat with Sir Thomas Fairfax, and ſuch as he ſhall ap<g ref="char:EOLhyphen"/>point, whether that gave power to treat with thoſe he appoints, himſelfe not being there. 2 Whrther they ſhould treat upon the Votes already made by the houſes, or up<g ref="char:EOLhyphen"/>on what ſhall be debated. 3. Whether the Commiſſioners ſhould give account to the houſes before the concluſion of the ſeverall things treated on, or after the reſult of eve<g ref="char:EOLhyphen"/>ry particular Head.</p>
+               <pb facs="tcp:114331:3"/>
+               <p>After ſome time ſpent in debace thereof the Commiſſioners for the army, <hi>viz.</hi>
+                  <list>
+                     <item>
+                        <hi>Lieutenant Gen.</hi> Cromwel.</item>
+                     <item>
+                        <hi>Commiſ. Gen.</hi> Ireton.</item>
+                     <item>
+                        <hi>Colonell</hi> Fleetwood.</item>
+                     <item>
+                        <hi>Colonell</hi> Rainsborow.</item>
+                     <item>
+                        <hi>Colonell</hi> Harriſon.</item>
+                     <item>
+                        <hi>Col.</hi> Waller.</item>
+                     <item>
+                        <hi>Col.</hi> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ien.</item>
+                     <item>
+                        <hi>Col.</hi> Lambert.</item>
+                     <item>
+                        <hi>Col.</hi> Hamond.</item>
+                     <item>Major <hi>Daisborough.</hi>
+                     </item>
+                  </list> Propoſed ſome things which they affirmed to be wanting in the late Votes of the hou<g ref="char:EOLhyphen"/>ſes, in relation to the deſires of the army, ſent from <hi>Uxbridge June</hi> 27. The reſult of which debate, I ſhall here intimate unto you, conſiſting of 6 Heads.</p>
+               <p n="1">1. <hi>For the publiſhing a Declaration againſt the votes for inviting Souldiers from the Army, &amp;c.</hi>
+               </p>
+               <p n="2">2. <hi>For making the former Votes for proviſi<g ref="char:EOLhyphen"/>ons for the Army more effectuall.</hi>
+               </p>
+               <p n="3">3. <hi>For ſpeedy ſending thoſe that have left them into</hi> Ireland, <hi>&amp;c.</hi>
+               </p>
+               <p n="4">4. <hi>For the ſpeedy paſſing the Ordinance for</hi> Ireland.</p>
+               <p n="5">5. <hi>For the ſpeedy perfecting the eſtabliſhment for the Army.</hi> 6. <hi>That they have many things to preſent to the Houſes of very great concernment, much conducing to the peace and ſafety of this Kingdome.</hi>
+               </p>
+               <pb facs="tcp:114331:4"/>
+               <p>We have alſo received a Letter from the North, intimating the proceedings of the Councell of <hi>Scotland,</hi> touching the preſent affaires <hi>in England,</hi> eſpecially concerning the preſent Deſignes and Engagements of our noble Generall and the Army; in which Letter, was diſcovered ſome notable pro<g ref="char:EOLhyphen"/>jects for the raiſing a new Army to come into <hi>England,</hi> which for your further ſatiſ<g ref="char:EOLhyphen"/>faction, I ſhall here recite, verbatim.</p>
+            </div>
+            <div type="letter">
+               <head>The Copy of a Letter ſent from a Gentleman in the North, to his friend in the Army.</head>
+               <p>
+                  <hi>SIR,</hi>
+               </p>
+               <p>ACcording so my promiſe in my laſt Letter, I ſhall in this give you a briefe relation of ſome paſſages here which are moſt Remarkable. On Thurſday laſt being the <hi>1.</hi> of this inſtant Iuly, there was a Convention of the Councell of the Kingdome of <hi>Scotland,</hi> at which there was a very great appearance of the Eſtates of that king<g ref="char:EOLhyphen"/>dome, according to the weight of the buſineſſe, which was now to be debated; which was concerning the raiſing, or not raiſing of Forces to come into <hi>England;</hi> about which there was a long and deliberate debate. I ſhall not need to mention the various opinions on this Subject, nor give you the Propoſitions at large then inſiſted on; but the ge<g ref="char:EOLhyphen"/>nerall were theſe.</p>
+               <p>Firſt, whether it were neceſſary to ſend Forces into
+<pb facs="tcp:114331:4"/> 
+                  <hi>England,</hi> to aſſiſt the Parl. in ſetling the Kingdome, and whether the major part of the City of <hi>London</hi> did not hold with the Army.</p>
+               <p>Secondly, what number ſhould be thought fit for this ſervice,</p>
+               <p>Thirdly, under what conduct thoſe Forces ſhould be.</p>
+               <p>Fourthly, how they ſhould be paid. And <hi>6.</hi> That it ſhould be in purſuance of the League and Covenant, and conti<g ref="char:EOLhyphen"/>nuing of the Brotherly amity between the two Kingdoms, upon all which particulars, much time was ſpent; And waving the <hi>1.</hi> it was thought fit that if any Forces were ſent, the number could not be under <hi>20000.</hi> To the <hi>3.</hi> it was thought fit, that if any ſuch Forces were ſent into <hi>England,</hi> Lieut. Ger. <hi>David Leſly</hi> ſhould be Commander in chiefe. Something was then propoſed, whether they ſhould come in before they had a ſpeciall invitation; to which was alſo laid in the ballance, the preſent conditi<g ref="char:EOLhyphen"/>on of that Kingdome, in which, that which was of grea<g ref="char:EOLhyphen"/>teſt weight was, That that Kingdome was still infested with an Enemy in the field, to whom, ſome Iriſh were ex<g ref="char:EOLhyphen"/>pected to come over and joyn with them, That ſome new Diviſions were riſen in the heart of that Kingdome, and their Souldiers much in arrear already for want of pay: All which (together with other things) being duly conſi<g ref="char:EOLhyphen"/>dered, the Councell came to their reſult, and declared, that for the preſent, no forces of theirs ſhould come into <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and that all preparations in that kind ſhould bee laid aſide, which is all at the preſent from</p>
+               <closer>
+                  <signed>
+                     <hi>Sir, Your affectionate friend to ſerve you,</hi> W. GILL.</signed>
+                  <dateline>Barwick <date>Iuly <hi>2. 1647.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <gap reason="illegible: missing" extent="1 span">
+               <desc>〈…〉</desc>
+            </gap>
+            <div type="letter">
+               <pb facs="tcp:114331:5"/>
+               <p>Yet although divers ſtormes and oppoſi<g ref="char:EOLhyphen"/>tions may ariſe, I do verily believe, thoſe ſilver thrids of amity and love throughout the whole army, can never be ſeparated, or divided; for their hearts are firmly knit and united together, fearing not the ſtrength of Man, but generally offering themſelves to the protection of the great Jehovah. There is great hopes of a gallant compoſure, for the treaty goes on fairly. Wee heare that the Kings Majeſty hath ſent a Letter to his Roy<g ref="char:EOLhyphen"/>all Son the Duke of <hi>Yorke,</hi> it being his own hand-writing as doth appeare by the ſuper<g ref="char:EOLhyphen"/>ſcription. Major Generall Brown is in great favour with the Kings Majeſty, &amp;c. Thus for the preſent, I remain</p>
+               <closer>
+                  <signed>Your most affectionate friend and Kinſman, <hi>T. BURFOIT.</hi>
+                  </signed>
+                  <dateline>Wickham <date>July 9. 1647.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
